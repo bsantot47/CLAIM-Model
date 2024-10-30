@@ -78,4 +78,4 @@ L’implémentation de CLAIM implique de mettre en place des systèmes qui privi
   Contrairement aux IA classiques, les modèles CLAIM ne fonctionnent pas de manière autonome. Ils dépendent des apports de l’utilisateur pour générer chaque réponse, créant ainsi un processus collaboratif qui met l’accent sur la pertinence et l’adaptabilité.
 
 - **Dans quels domaines CLAIM peut-il être appliqué ?**  
-  CLAIM est polyvalent et peut être appliqué dans des domaines tels que l'éducation, la santé, les sciences du climat, le service client, et bien plus encore - partout où la collaboration entre IA et humains peut améliorer les résultats.
+  CLAIM est polyvalent et peut être appliqué dans des domaines tels que l'éducation, la santé, les sciences du climat, le service client, et bien plus encore - partout où la collaboration entre IA et humains peut améliorer les résultats..
